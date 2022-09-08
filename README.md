@@ -22,3 +22,19 @@ mushrooms.csv
 quiz.docx
 Lab2 Folder: Preamble&review.py, datasets.py, knearest.py LinearModelsReression.py, LinearModelsClassification.py, SupportVectorMachines.py, MultiClassClassificationLienarModels.py, kernelizedSVM.py, Crossvalidation.py, decisiontree.py, adspy_shared_utilities.py, fruit_data_with_colors.txt, commViolPredUnnormalizeddata.txt.
 
+week3.zip: Documents of this course:
+
+assignement3.py  
+fraud_data.csv
+quiz_week3.docx
+Lab folder: evaluation_for_classification.py, EvaluationMeasures_multiclass_classification.py, regresion_evaluationMetrics.py, Twofeature_classification.py, Modelselection_evaluationMetrics.py, adspy_shared_utilities.py, commviolpredunnornalizeddata.txt  
+
+week4.zip: Documents of this course:
+
+assignement4.py  
+assignement4.pdf  
+quiz4.docx  
+test.csv  
+train.csv  
+lab4 folder: NaivebayesClassifier.py, EnsemblesDecisionTree.py, NeuronalNetworks.py, adspy_shared_utilities.py, fruit_data_with_colors.txt, CommViolPredUnnormalizedData.txt.
+
